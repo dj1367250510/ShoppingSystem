@@ -4,4 +4,5 @@
 
 适合初学Java练手项目
 
-![image](https://github.com/dj1367250510/ShoppingSystem/assets/74551357/e893a51f-8622-421d-87a7-514d24ceebd4)
+![image](https://github.com/dj1367250510/ShoppingSystem/assets/74551357/3eb0af3d-ec7a-4b3e-a927-6fb644949020)
+
